@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "Andrew Van Slaars",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "crocks": "^0.8.1",
+    "ramda": "^0.25.0"
+  }
 }
